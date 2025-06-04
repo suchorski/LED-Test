@@ -6,6 +6,10 @@ Esse script é usado para andar com os LEDs usando o [WLED](https://kno.wled.ge/
 
 - Python
 
+## Configuração
+
+- Colocar o IP do WLED no script
+
 ## Instalação
 
 - Baixar e instalar o Python
